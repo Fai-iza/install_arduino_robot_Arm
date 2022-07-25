@@ -109,7 +109,7 @@ $ sudo ./install.sh
 
 
 
-#install rosserial
+## install rosserial
 
 $ sudo apt-get install ros-noetic-rosserial-arduino
 
@@ -121,7 +121,7 @@ $ sudo apt-get install ros-noetic-rosserial
 
 
 
-#install ros_lib
+## install ros_lib
 
 go the arduino file and click right and chose open with terminal 
 
