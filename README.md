@@ -14,7 +14,8 @@ $ cd ~/catkin_ws/
 
 $ catkin_make
 
-![image](https://user-images.githubusercontent.com/79508459/180745912-812a5128-5e18-4c67-86a6-c393a38a5a5a.png)
+![image](https://user-images.githubusercontent.com/79508459/180756253-caf01813-b88e-4245-b3cf-2a57532b8152.png)
+
 
 
 #### 3- type the following commands, to install git and conncet to github repostary
