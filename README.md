@@ -14,7 +14,7 @@ $ cd ~/catkin_ws/
 
 $ catkin_make
 
-![image](https://user-images.githubusercontent.com/79508459/180756253-caf01813-b88e-4245-b3cf-2a57532b8152.png)
+![image](https://user-images.githubusercontent.com/79508459/180758330-331c5240-8b89-481f-bd17-942479264758.png)
 
 
 
