@@ -51,8 +51,11 @@ $ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 $ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 
 ![image](https://user-images.githubusercontent.com/79508459/180748457-6cda236d-a091-4ff3-bb96-856893490b6f.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180748983-222f620c-2242-4782-bc8c-d1e3443f8664.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180749695-58c957af-3ae5-435d-b6f5-b987d4011ff0.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180749907-3ec039fd-2c8c-4b4b-a414-19a608159988.png)
 
 
@@ -67,6 +70,7 @@ then go to the button and add the following line under the other sources
 source /home/faiza/catkin_ws/devel/setup.bash
 
 ![image](https://user-images.githubusercontent.com/79508459/180750434-73e968a7-dc07-4d79-aa40-4b39f8d1b6b2.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180750465-783b85cc-9d47-4960-9c4b-582836f806c3.png)
 
 
@@ -75,6 +79,7 @@ source /home/faiza/catkin_ws/devel/setup.bash
 $ sudo roslaunch robot_Arm_pkg check_motors.launch 
 
 ![image](https://user-images.githubusercontent.com/79508459/180750761-c435f96e-2eed-47e6-a5a4-6d09c02b96f8.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180750775-8c6c9c65-7df6-4ce1-82c6-ff1a217d9fb7.png)
 
 ####8- type the fololowing command to lanuch gazebo
@@ -116,6 +121,7 @@ $ sudo apt-get install ros-noetic-rosserial-arduino
 $ sudo apt-get install ros-noetic-rosserial
 
 ![image](https://user-images.githubusercontent.com/79508459/180753172-6c2f9555-8ee2-4585-af80-9fc58aa2ad8e.png)
+
 ![image](https://user-images.githubusercontent.com/79508459/180753251-e90eb434-0409-4a49-b783-ecd435fb5256.png)
 
 
